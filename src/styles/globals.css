@@ -535,6 +535,7 @@ input:focus, select:focus, textarea:focus {
   align-items: flex-start; /* Align items to the left */
   justify-content: center; /* Center items vertically */
   height: 100%; /* Ensure it takes the full height of the container */
+  
   transition: all 0.5s ease-in-out;
   transition-delay: 0.3s;
 }
